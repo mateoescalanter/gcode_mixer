@@ -2,7 +2,7 @@
 
 Hi, this is a personal project that I use for mixing gcode files generated with Cura Slicer. You can use the webapp directly at [gcodemixer.mer.bio](https://gcodemixer.mer.bio) or you can fork it.
 
-
+![gcode_mixer_gif](https://github.com/user-attachments/assets/24ec1ff2-97e4-4ecd-bf7f-3673e6a61ff8)
 
 ## Why?
 
