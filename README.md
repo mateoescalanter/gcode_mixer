@@ -14,8 +14,9 @@ I usually use this tool with models that I want to be spiralized (vase mode) in 
 
 - Upload your sliced G-code files of the same model
 - Add them to the 3D viewer
-- Move the layer timeline to match your desired configuration
 - Download merged g-code
+- Drag the layer timeline to get the configuration you want 
+- Download the merged G-code
 
 ## Getting Started (run it locally)
 
